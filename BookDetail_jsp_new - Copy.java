@@ -14,8 +14,8 @@ public class BookDetail_jsp extends HttpJspBase {
 
   static final String CRLF = "\r\n";
 
-// TEst lital
-// TEst lital1
+ TEst lital
+ TEst lital1
 // TEst lital2
 // TEst lital3
 
